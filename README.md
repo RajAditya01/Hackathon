@@ -1,12 +1,14 @@
 # Smart India Hackathon (SIH) Project
 #  Team Members:
 
-Aditya Raj,
+Aditya Raj
 
-Akshat Tyagi,
+Akshat Tyagi
 
-Aditya Tyagi,
+Aditya Tyagi
 
-Punit Goyal,
+Punit Goyal
 
 Arun Arya
+
+Simran
