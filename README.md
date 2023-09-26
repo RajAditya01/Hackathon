@@ -1,5 +1,5 @@
 # Smart India Hackathon (SIH) Project
-# # Team Members:
+#  Team Members:
 
 Aditya Raj,
 
